@@ -1,7 +1,7 @@
 # Langchain Example:
 
 
-getting a insights from PDF using Langchain and 
+getting a insights from PDF using Langchain and OpenAI (change the OpenAI_API_KEY with one of yours if you want OpenAI accept your quary)
 
 
 
